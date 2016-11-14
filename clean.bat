@@ -1,0 +1,1 @@
+C:\OlimexODS\yagarto\bin\make clean
