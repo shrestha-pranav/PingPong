@@ -51,7 +51,6 @@ int main()
 		
 		//This is the physics loop, it handles all game logic
 		while(scored == 0){
-			
 			//print paddles and ball
 			int i;
 			for(i = 0; i < 2; i++){
@@ -123,4 +122,3 @@ int main()
 	if(p1_score ==5 ) lcd_print7("CONGRATS P1!");
 	else lcd_print7("CONGRATS P2!");
 }
-
